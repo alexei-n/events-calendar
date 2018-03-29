@@ -29,3 +29,35 @@ html {
   border-color: #b92828;
   color: #991919;
 }
+
+.sun {
+  width: 10em;
+}
+
+.mon {
+  width: 10em;
+}
+
+.tue {
+  width: 10em;
+}
+
+.wed {
+  width: 10em;
+}
+
+.thu {
+  width: 10em;
+}
+
+.fri {
+  width: 10em;
+}
+
+.sat {
+  width: 10em;
+}
+
+td {
+  height: 10em;
+}
